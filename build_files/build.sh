@@ -14,6 +14,8 @@ dnf5.real -y install @fonts @hardware-support \
   gnome-control-center \
   NetworkManager-bluetooth \
   pipewire \
+  vim \
+  neovim \
   wireplumber \
   xdg-desktop-portal-gnome \
   gnome-shell-extension-appindicator \
