@@ -6,6 +6,10 @@ FEDORA_VERSION=$(rpm -E %fedora)
 
 ## Install packages
 dnf5.real -y install @fonts @hardware-support \
+  hyprland \
+  rofi \
+  dmenu \
+  dms \
   gdm \
   gnome-session \
   gnome-shell \
