@@ -20,6 +20,7 @@ dnf5.real -y install @fonts @hardware-support \
   pipewire \
   vim \
   neovim \
+  neovim \
   wireplumber \
   xdg-desktop-portal-gnome \
   gnome-shell-extension-appindicator \
